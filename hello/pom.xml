@@ -9,6 +9,8 @@
 	<description>Simplest possible Java Webapp</description>
 
 	<build>
+			<finalName>testwar</finalName>
+
 		<plugins>
 			<plugin>
 				<groupId>org.mortbay.jetty</groupId>
